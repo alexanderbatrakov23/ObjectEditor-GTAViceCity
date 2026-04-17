@@ -4,6 +4,8 @@
 
 ---
 
+![[Screenshot](https://forumstatic.ru/files/0019/f0/2b/16370.png)](https://sun9-39.userapi.com/s/v1/ig2/JPCgDjEL8cgpdPG3VNN2YyezeHAv8mbswFqDbIT0WEcO2uC2-fn216-4LtWwftmFJnwJCFj0mgP-ggVu4bYRUG8W.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720&from=bu&cs=1280x0)
+
 ## 🎮 Основное управление
 
 | Клавиша           | Действие                          |
